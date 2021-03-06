@@ -1,0 +1,132 @@
+rub,₽,ruble,kopek,rubles,kopeks
+AFN,؋,afghani,Pul,afghani,Pul
+eur,€,euro,cent,euro,cent
+all,l,lek,qindarkë,lek,qindarkë
+gbp,£,pound,penny,pounds,pence
+dzd,د.ج,algerian dinar,santeem,algerian dinars,santeems
+aoa,kz,kwanza,cêntimo,kwanza,cêntimo
+ars,$,argentine peso,centavo,argentine pesos,centavos
+amd,֏,armenian dram,luma,armenian dram,luma
+amd,֏,armenian dram,luma,armenian dram,luma
+awg,ƒ,aruban florin,cent,aruban florin,cents
+azn,₼,azerbaijani manat,qəpik,azerbaijani manat,qəpik
+bhd,.د.ب,bahraini dinar,fils,bahraini dinars,fils
+bdt,৳,bangladeshi taka,poisha,bangladeshi taka,poisha
+byn,br,belarusian ruble,kapyeyka,belarusian rubles,kapyeyka
+xof,fr,west african cfa franc,centime,west african cfa franc,centimes
+btn,nu.,bhutanese ngultrum,chetrum,bhutanese ngultrum,chetrum
+inr,₹,indian rupee,paisa,indian rupees,paisa
+bob,bs.,bolivian boliviano,centavo,bolivian bolivianos,centavos
+bam,km,bosnia and herzegovina convertible mark,fening,bosnia and herzegovina convertible mark,fening
+bwp,p,botswana pula,thebe,botswana pula,thebe
+brl,r$,brazilian real,centavo,brazilian reales,centavos
+bgn,лв.,bulgarian lev,stotinka,bulgarian lev,stotinka
+khr,៛,cambodian riel,sen,cambodian riel,sen
+cve,esc or $,cape verdean escudo,centavo,cape verdean escudos,centavos
+cny,¥ or 元,chinese yuan,jiao,chinese yuan,jiao
+crc,₡,costa rican colón,céntimo,costa rican colón,céntimos
+hrk,kn,croatian kuna,lipa,croatian kuna,lipa
+ang,ƒ,netherlands antillean guilder,cent,netherlands antillean guilders,cents
+czk,kč,czech koruna,haléř,czech koruna,haléř
+dkk,kr,danish krone,øre,danish krone,øre
+usd,$,dollar,cent,dollars,cents
+egp,ج.م,egyptian pound,piastre,egyptian pounds,piastres
+ern,nfk,eritrean nakfa,cent,eritrean nakfa,cents
+szl,l,swazi lilangeni,cent,swazi lilangeni,cents
+zar,r,south african rand,cent,south african rands,cents
+etb,br,ethiopian birr,santim,ethiopian birr,santim
+dkk,kr,danish krone,øre,danish krone,øre
+gmd,d,gambian dalasi,butut,gambian dalasi,butut
+gel,₾,georgian lari,tetri,georgian lari,tetri
+ghs,₵,ghanaian cedi,pesewa,ghanaian cedi,pesewa
+gtq,q,guatemalan quetzal,centavo,guatemalan quetzal,centavos
+htg,g,haitian gourde,centime,haitian gourde,centimes
+hnl,l,honduran lempira,centavo,honduran lempira,centavos
+huf,ft,hungarian forint,fillér,hungarian forint,fillér
+isk,kr,icelandic króna,eyrir,icelandic króna,eyrir
+inr,₹,indian rupee,paisa,indian rupees,paisa
+idr,rp,indonesian rupiah,sen,indonesian rupiah,sen
+irr,﷼,iranian rial,rial,iranian rial,rial
+iqd,ع.د,iraqi dinar,fils,iraqi dinars,fils
+ils,₪,israeli new shekel,agora,israeli new shekels,agoras
+jpy,¥ or 円,japanese yen,sen[c],japanese yen,sen
+jod,د.ا,jordanian dinar,piastre,jordanian dinars,piastre
+kzt,₸,kazakhstani tenge,tıyn,kazakhstani tenge,tıyn
+kes,sh,kenyan shilling,cent,kenyan shillings,cents
+kpw,₩,north korean won,chon,north korean won,chon
+krw,₩,south korean won,jeon,south korean won,jeon
+kwd,د.ك,kuwaiti dinar,fils,kuwaiti dinars,fils
+kgs,с,kyrgyzstani som,tyiyn,kyrgyzstani som,tyiyn
+lak,₭,lao kip,att,lao kip,att
+lbp,ل.ل,lebanese pound,piastre,lebanese pounds,piastre
+lsl,l,lesotho loti,sente,lesotho loti,sente
+zar,r,south african rand,cent,south african rand,cent
+lyd,ل.د,libyan dinar,dirham,libyan dinars,dirham
+mop,mop$,macanese pataca,avo,macanese patacas,avos
+mga,ar,malagasy ariary,iraimbilanja,malagasy ariary,iraimbilanja
+mwk,mk,malawian kwacha,tambala,malawian kwacha,tambala
+myr,rm,malaysian ringgit,sen,malaysian ringgit,sen
+mvr,.ރ,maldivian rufiyaa,laari,maldivian rufiyaa,laari
+mru,um,mauritanian ouguiya,khoums,mauritanian ouguiya,khoums
+mur,₨,mauritian rupee,cent,mauritian rupees,cents
+mdl,l,moldovan leu,ban,moldovan leu,ban
+mnt,₮,mongolian tögrög,möngö,mongolian tögrög,möngö
+mad,د.م.,moroccan dirham,centime,moroccan dirham,centimes
+mzn,mt,mozambican metical,centavo,mozambican metical,centavos
+mmk,ks,burmese kyat,pya,burmese kyat,pya
+zar,r,south african rand,cent,south african rand,cents
+npr,रू,nepalese rupee,paisa,nepalese rupees,paisa
+nio,c$,nicaraguan córdoba,centavo,nicaraguan córdoba,centavos
+ngn,₦,nigerian naira,kobo,nigerian naira,kobo
+mkd,ден,macedonian denar,deni,macedonian denar,deni
+try,₺,turkish lira,kuruş,turkish lira,kuruş
+nok,kr,norwegian krone,øre,norwegian krone,øre
+omr,ر.ع.,omani rial,baisa,omani rial,baisa
+pkr,₨,pakistani rupee,paisa,pakistani rupees,paisa
+ils,₪,israeli new shekel,agora,israeli new shekel,agora
+jod,د.ا,jordanian dinar,piastre[m],jordanian dinars,piastre[m]
+pab,b/.,panamanian balboa,centésimo,panamanian balboa,centésimo
+pgk,k,papua new guinean kina,toea,papua new guinean kina,toea
+pyg,₲,paraguayan guaraní,céntimo,paraguayan guaraní,céntimo
+pen,s/.,peruvian sol,céntimo,peruvian sol,céntimo
+php,₱,philippine peso,sentimo,philippine peso,sentimo
+pln,zł,polish złoty,grosz,polish złoty,grosz
+qar,ر.ق,qatari riyal,dirham,qatari riyal,dirham
+ron,lei,romanian leu,ban,romanian leu,ban
+rub,₽,russian ruble,kopek,russian rubles,kopek
+dzd,د.ج,algerian dinar,santeem,algerian dinars,santeem
+mru,um,mauritanian ouguiya,khoums,mauritanian ouguiya,khoums
+mad,د. م.,moroccan dirham,centime,moroccan dirhams,centimes
+sahrawi peseta,₧ or ptas,sahrawi peseta,centime,sahrawi pesetas,centimes
+wst,t,samoan tālā,sene,samoan tālā,sene
+stn,db,são tomé and príncipe dobra,cêntimo,são tomé and príncipe dobra,cêntimo
+sar,﷼,saudi riyal,halala,saudi riyal,halala
+rsd,дин. or din.,serbian dinar,para,serbian dinars,para
+scr,₨,seychellois rupee,cent,seychellois rupees,cents
+sll,le,sierra leonean leone,cent,sierra leonean leone,cents
+ang,ƒ,netherlands antillean guilder,cent,netherlands antillean guilder,cent
+sos,sh,somali shilling,cent,somali shilling,cents
+sls[g],sl,somaliland shilling,cent,somaliland shilling,cents
+zar,r,south african rand,cent,south african rand,cents
+ssp,£,south sudanese pound,piaster,south sudanese pounds,piaster
+lkr,"rs, රු or ரூ",sri lankan rupee,cent,sri lankan rupees,cents
+sdg,ج.س.,sudanese pound,piastre,sudanese pounds,piastre
+sek,kr,swedish krona,öre,swedish krona,öre
+syp,ل.س,syrian pound,piastre,syrian pounds,piastres
+tjs,ѕм,tajikistani somoni,diram,tajikistani somoni,diram
+tzs,sh,tanzanian shilling,cent,tanzanian shilling,cents
+thb,฿,thai baht,satang,thai baht,satang
+top,t$,tongan paʻanga[p],seniti,tongan paʻanga[p],seniti
+tnd,د.ت,tunisian dinar,millime,tunisian dinars,millime
+try,₺,turkish lira,kuruş,turkish lira,kuruş
+tmt,m,turkmenistan manat,tennesi,turkmenistan manat,tennesi
+ugx,sh,ugandan shilling,(none),ugandan shilling,(none)
+uah,₴,ukrainian hryvnia,kopiyka,ukrainian hryvnia,kopiyka
+aed,د.إ,united arab emirates dirham,fils,united arab emirates dirham,fils
+uzs,so'm or сўм,uzbekistani soʻm,tiyin,uzbekistani soʻm,tiyin
+vuv,vt,vanuatu vatu,(none),vanuatu vatu,(none)
+ves,bs.,venezuelan bolívar,céntimo,venezuelan bolívares,céntimos
+vnd,₫,vietnamese đồng,hào,vietnamese đồng,hào
+xpf,₣,cfp franc,centime,cfp franc,centimes
+yer,ر.ي,yemeni rial,fils,yemeni rial,fils
+zmw,zk,zambian kwacha,ngwee,zambian kwacha,ngwee
